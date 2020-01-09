@@ -34,3 +34,9 @@ img {
 #text-container {
     position: relative;
 }
+
+#bottom-left {
+    position: absolute;
+    left: 15px;
+    bottom: 0;
+}
