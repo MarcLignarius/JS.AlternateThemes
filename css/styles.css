@@ -26,3 +26,7 @@ footer {
     padding: 10px 0px 10px;
     overflow: hidden;
 }
+
+img {
+    width: 100%;
+}
