@@ -67,3 +67,11 @@ img {
   left: 15px;
   bottom: 0;
 }
+
+.light-background {
+  background-color: #ffffff;
+}
+
+.light-text {
+  color: #212528;
+}
