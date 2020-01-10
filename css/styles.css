@@ -28,6 +28,12 @@ a:hover {
   border-color: #23272b;
 }
 
+#timbers {
+  color: gold;
+  background-color: green;
+  border-color: green;
+}
+
 h1 {
   text-align: center;
   margin-bottom: 1.5em;
