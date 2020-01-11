@@ -75,3 +75,11 @@ img {
 .light-text {
   color: #212528;
 }
+
+.dark-background {
+  background-color: #23272b;
+}
+
+.dark-text {
+  color: #ffffff;
+}
