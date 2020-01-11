@@ -9,4 +9,9 @@ $(function() {
     $("body").addClass("dark-background");
     $("h1, h4, p").addClass("dark-text");
   });
+  $("button#timbers").click(function() {
+    $("body, h1, h4, p").removeClass();
+    $("body").addClass("timbers-background");
+    $("h1, h4, p").addClass("timbers-text");
+  });
 });
