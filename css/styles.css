@@ -83,3 +83,11 @@ img {
 .dark-text {
   color: #ffffff;
 }
+
+.timbers-background {
+  background-color: green;
+}
+
+.timbers-text {
+  color: gold;
+}
