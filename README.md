@@ -16,7 +16,7 @@ _This is a simple web page with three available themes:_
 
 * _Clone from GitHub_
 * _Open index.html_
-* _Alternatively, launch marclignarius.github.io/projectname_
+* _Alternatively, launch https://marclignarius.github.io/JS.AlternateThemes/_
 
 ## Specs
 
