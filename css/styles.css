@@ -91,3 +91,9 @@ img {
 .timbers-text {
   color: gold;
 }
+
+@media (max-width: 1024px) {
+  .col-xl-4 {
+    margin-bottom: 1em;
+  }
+}
